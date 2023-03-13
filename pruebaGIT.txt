@@ -5,7 +5,7 @@
 <p><strong>Puto</strong> el que lee y <strong>no soy yo</strong></p>
 <h2>aprendiendo HTML</h2>
 <p>sirve aprender este curso online</p>
-
+<p> 11/01/90 </p>
 
 Joaquin Garcia
 Sol Camila Garcia Murillo
